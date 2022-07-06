@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Duda Liberatto
 - I'm currently starting to learn HTML and CSS
-- In here, there will be some obvious mistakes, but I'm still on the begin, just as you were someday. So any tip or help will be happily welcome.
+- In here, there will be some obvious mistakes, but I'm still on the begining, just as you were someday. So any tip or help will be happily welcome.
 - Feel free to contact me via email: eduarda.sliberato@gmail.com 
 - Lots of hugs, D.
 <!---
